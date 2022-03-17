@@ -10,14 +10,12 @@ a {
 
 #MainHeader {
     text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    font-size: 24px;
 }
 
 #PASHeader {
-    text-align: center;
-}
-
-
-#PASFooter{
     text-align: center;
 }
 
@@ -30,10 +28,25 @@ a {
     text-align: right;
 }
 
+#Nav {
+    text-align: left
+}
+
+#SideDude {
+    text-align: left;
+}
+
+#PageHyperlinks {
+    list-style: georgian;
+}
+
 #MainFooter {
     text-align: center;
 }
 
+#PASFooter{
+    text-align: center;
+}
 #Nav {
     text-align: left
 }
