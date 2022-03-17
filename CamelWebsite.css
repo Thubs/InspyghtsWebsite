@@ -1,0 +1,43 @@
+body {
+    background-color: #EFB700;
+    color: #000000;
+}
+
+a {
+    color: #b71f2e;
+    font-style: italic;
+}
+
+#MainHeader {
+    text-align: center;
+}
+
+#PASHeader {
+    text-align: center;
+}
+
+
+#PASFooter{
+    text-align: center;
+}
+
+#HeaderLink{
+    color: #000000;
+    text-underline-offset: 3;
+}
+
+#HomeButton {
+    text-align: right;
+}
+
+#MainFooter {
+    text-align: center;
+}
+
+#Nav {
+    text-align: left
+}
+
+#SideDude {
+    text-align: left;
+}
