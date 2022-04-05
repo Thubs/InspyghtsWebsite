@@ -2,6 +2,9 @@
 
 I will put the URL here when the website is live:
 
+## Dependencies
+
+React.js
 
 ## How to run
 
