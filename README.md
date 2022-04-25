@@ -4,7 +4,7 @@ I will put the URL here when the website is live:
 
 ## Dependencies
 
-React.js
+Django
 
 ## How to run
 
