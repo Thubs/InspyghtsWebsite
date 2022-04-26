@@ -1,0 +1,60 @@
+body {
+    background-color: #EFB700;
+    color: #000000;
+}
+
+a {
+    color: #b71f2e;
+    font-style: italic;
+    text-decoration: none;
+}
+
+#Header {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    font-size: 24px;
+}
+
+#HeaderLink {
+    color: #000000;
+    text-underline-offset: 3;
+}
+
+#HomeButton {
+    text-align: right;
+}
+
+#Nav {
+    text-align: left
+}
+
+#ArtHeading {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+#Section {
+    text-align: left;
+}
+
+#H3 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    font-size: 24px;
+}
+
+#SideDude {
+    text-align: left;
+}
+
+#PageHyperlinks {
+    list-style: lower-alpha;
+}
+
+#Footer {
+    text-align: center;
+}
