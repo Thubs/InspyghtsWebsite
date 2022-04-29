@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/badge/lines%20of%20code-1k-grey"/>
+
 # Inspyghts Website
 
 I will put the URL here when the website is live:
