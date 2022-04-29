@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/lines%20of%20code-1k-grey"/>
+<img src="https://img.shields.io/badge/lines%20of%20code-1k-blue"/>
 
 # Inspyghts Website
 
