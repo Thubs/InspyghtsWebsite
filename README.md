@@ -6,7 +6,7 @@ I will put the URL here when the website is live:
 
 ## Dependencies
 
-Django
+Django, react.js
 
 ## How to run
 
