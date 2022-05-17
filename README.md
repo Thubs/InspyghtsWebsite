@@ -1,10 +1,12 @@
+<img src="https://img.shields.io/badge/lines%20of%20code-1k-blue"/>
+
 # Inspyghts Website
 
 I will put the URL here when the website is live:
 
 ## Dependencies
 
-Django
+Django, react.js
 
 ## How to run
 
