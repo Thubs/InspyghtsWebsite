@@ -6,7 +6,7 @@ I will put the URL here when the website is live:
 
 ## Dependencies
 
-Django, react.js, Rust-wasm
+11ty
 
 ## How to run
 
